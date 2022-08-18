@@ -1,6 +1,6 @@
 - Hi🙋🏽‍♀️, I’m @Nyambura
 - 👀 I’m interested in creating amazing innovative solutions to everyday problems
-- 🌱 I’m currently learning Full stack development
+- 🌱 I’m a fullstack developer currently coding in Angular and Python(Django)
 - 💞️ I’m looking to collaborate on projects that will help enhance my skillset
 - 📫 You can reach me on nyambura.bianca23@gmail.com
 
